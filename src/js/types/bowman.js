@@ -5,6 +5,6 @@ export default class Bowman extends Character {
     super(name);
     this.type = "Bowman";
     this.attack = 25;
-    this.defense = 25;
+    this.defence = 25;
   }
 }

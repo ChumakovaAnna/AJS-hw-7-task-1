@@ -5,6 +5,6 @@ export default class Undead extends Character {
     super(name);
     this.type = "Undead";
     this.attack = 25;
-    this.defense = 25;
+    this.defence = 25;
   }
 }

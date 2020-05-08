@@ -9,7 +9,7 @@ describe("Character", () => {
       health: 100,
       level: 1,
       attack: 25,
-      defense: 25,
+      defence: 25,
     };
     expect(result).toEqual(expected);
   });
